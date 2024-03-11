@@ -1,0 +1,118 @@
+.navbar-brand{
+    color: white;
+}
+.navbar-nav{
+    color: white;
+}
+#wed{
+    color: white;
+}
+#wed1{
+    color: white;
+}
+#wed2{
+    color: white;
+}
+.wed3{
+    color: white;
+}
+
+.navbar-toggler{
+    color: rgb(255, 255, 255);
+}
+.navbar-toggler-icon{
+    color: white;
+}
+#head{
+    background-color: #097969;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.text-first{
+    background-color: rgba(21, 20, 20, 0.333);
+    background-blend-mode: color-burn;
+}
+#val{
+    background-color: white;
+    color: black;
+    border-radius: 10%;
+}
+.mad{
+    background-image: url("./images/pexels-jean-van-der-meulen-1457842.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#interior-design{
+    align-items: center;
+    justify-self: center;
+    align-content: center;
+}
+.image-caption{
+    padding: 0px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+#last-image-text{
+    color: aquamarine;
+}
+.card{
+    height: 250px;
+}
+p.lead{
+    font-weight: 400;
+}
+.des{
+    display: inline-flex;
+}
+#card-arrange{
+    display: flex;
+
+}
+#feature-tab{
+    margin-top: 20px;
+    background-color: #FAF9F6;
+    color: black;
+    border-radius: 10px;
+}
+h3{
+ color: rgb(15, 15, 15);
+}
+#feature-title{
+    color: white;
+    background-color: white;
+    border-radius: 10px;
+}
+#footer-class{
+    background-color:#097969;
+    color: white;
+   
+}
+#nav-ul{
+    color: white;
+    
+}
+.card-text{
+    font-weight: bold;
+}
+.card-img-top{
+    object-fit: cover;
+}
+#logo{
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+   margin-bottom: 40px;
+}
+#h2-text{
+    padding-left: 10px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    margin-top: auto;
+}

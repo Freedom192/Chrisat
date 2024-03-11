@@ -1,0 +1,70 @@
+.navbar-brand{
+    color: white;
+}
+.navbar-nav{
+    color: white;
+}
+#wed{
+    color: white;
+}
+#wed1{
+    color: white;
+}
+#wed2{
+    color: white;
+}
+.wed3{
+    color: white;
+}
+
+#logo{
+    color: white;
+}
+.navbar-toggler{
+    color: rgb(255, 255, 255);
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#footer-class3{
+    background-color:#097969;
+    color: white;
+}
+#navb{
+    color: white;
+}
+.nav-item{
+    color: white;
+}
+#nav-ul{
+    color: white !important;
+}
+.card-img-top{
+    object-fit: cover;
+}
+.nav-link{
+    color: white;
+}
+
+@media(min-width: 1030px) {
+    .d-block{
+        width: 100% !important;
+        height: 85vh;
+        object-fit: cover;
+      }
+  }
+  .carousel-caption{
+    background-color: rgba(21, 20, 20, 0.333);
+    background-blend-mode: color-burn;
+    border-radius: 20px;
+    border-color: white;
+  }
+ .dropdown-toggle{
+    margin-bottom: 10px;
+ }
